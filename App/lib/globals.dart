@@ -1,0 +1,13 @@
+var userName = "";
+int companyId = -1;
+var groupName = "";
+var companyApikey = "";
+var token = "";
+int user = -1;
+// var responseArray = [];
+// var responseArray1 = [];
+// var uniqueId = [];
+// var locationname = "";
+// var locationid = "";
+// var gateway = "";
+// var locations = "";
